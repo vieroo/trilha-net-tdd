@@ -1,0 +1,13 @@
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\eduardo.viero\Documents\Eduardo\DIO\Bootcamp XP\TDDeTestesUnitarios\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
